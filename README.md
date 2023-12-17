@@ -1,0 +1,2 @@
+# awesome-trollstore
+TrollStore apps.
