@@ -1,11 +1,10 @@
 # TrollStore Apps
 
-> [!IMPORTANT]  
-> If these links open the Magnifier app, you will need to enable the URL Scheme from within TrollStore.
+If these links open the Magnifier app, you will need to enable the URL Scheme from within TrollStore.
 
 ## Featured
 
-- [Picasso v3](apple-magnifier://install?url=https://repo.sourceloc.net/packages/picasso)
+- [Picasso v3](https://repo.sourceloc.net/packages/picasso)
 - [AppCommander (beta)](apple-magnifier://install?url=https://github.com/BomberFish/AppCommander/releases/download/v2.0.0-p1/AppCommander.tipa)
 - [SwiftTop (beta)](apple-magnifier://install?url=https://github.com/BomberFish/SwiftTop/releases/download/v0.3-p1/SwiftTop.tipa)
 
