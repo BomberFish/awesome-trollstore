@@ -18,4 +18,4 @@ If these links open the Magnifier app, you will need to enable the URL Scheme fr
 
 ## Games
 
-- [Geometry Dash 2.2](apple-magnifier://install?url=https://github.com/BomberFish/awesome-trollstore/releases/download/r2/Geometry_2.20_decrypted.2.ipa)
+- [Geometry Dash 2.2](apple-magnifier://install?url=https://github.com/BomberFish/awesome-trollstore/releases/download/tagnamehere/GeometryMoreRAM.tipa)
